@@ -215,19 +215,6 @@ Use tools like:
 
 ---
 
-## 📸 Tech Stack Visual
-
-### 🟢 Node.js
-
-![Node.js](https://i0.wp.com/andrewbeeken.co.uk/wp-content/uploads/2018/11/nodejs.jpg?fit=1200%2C675\&ssl=1)
-
-### ⚡ Express.js
-
-![Express.js](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
-
-### 🍃 MongoDB
-
-![MongoDB](https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif)
 
 ---
 
